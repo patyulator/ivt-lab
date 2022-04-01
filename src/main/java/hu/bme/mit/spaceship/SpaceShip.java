@@ -2,7 +2,9 @@ package hu.bme.mit.spaceship;
 
 /**
 * Defines basic spaceship functionality
+*e most important ones current
 * (collects just the most importa
+
 */
 public interface SpaceShip {
 
